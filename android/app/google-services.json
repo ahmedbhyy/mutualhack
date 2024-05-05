@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "129300036959",
+    "project_id": "mutualhack-8baad",
+    "storage_bucket": "mutualhack-8baad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129300036959:android:9c4fcb32d67b7dc6660aea",
+        "android_client_info": {
+          "package_name": "com.example.mutualhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129300036959-ubbqt38h0d65ne63kvconlr5kuicd8aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mutualhack",
+            "certificate_hash": "ed72ee59753547bcc7599deb568d3321f816227a"
+          }
+        },
+        {
+          "client_id": "129300036959-r3uhp7uauoak72lk978gpca7952jq86o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAehh5ddVxDZQL7lxf2NG3ogS4IJ_0gYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129300036959-r3uhp7uauoak72lk978gpca7952jq86o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129300036959-nl2a5qmop8785efl5fof6ig7ucj7d6nv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mutualhack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
